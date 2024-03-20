@@ -59,4 +59,4 @@ getgenv().silent = {
  }
  
 
- loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/971e07c6d49e96e1387cba82cad22179.lua"))() loadstring(game:HttpGet("https://raw.githubusercontent.com/VloxsGG/VloxsGG/b7857aa2edc55be8e83dfbf9d886cac52de75fe7/Berserk%20X%20Updated"))()loadstring(game:HttpGet("https://raw.githubusercontent.com/VloxsGG/VloxsGG/267ffc9688addcec5fe9a71e44a9719f2432fb12/Hitbox"))()
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/VloxsGG/VloxsGG/b7857aa2edc55be8e83dfbf9d886cac52de75fe7/Berserk%20X%20Updated"))()loadstring(game:HttpGet("https://raw.githubusercontent.com/VloxsGG/VloxsGG/267ffc9688addcec5fe9a71e44a9719f2432fb12/Hitbox"))()
